@@ -1,0 +1,8 @@
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\obj\Release\QQMusicSkinExtract.frmQQMusicSkinExtract.resources
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\obj\Release\QQMusicSkinExtract.csproj.GenerateResource.Cache
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\bin\Release\QQMusicSkinExtract.exe.config
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\bin\Release\QQMusicSkinExtract.exe
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\bin\Release\QQMusicSkinExtract.pdb
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\obj\Release\QQMusicSkinExtract.Properties.Resources.resources
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\obj\Release\QQMusicSkinExtract.exe
+G:\Workspace\C#\QQMusicSkinExtract\QQMusicSkinExtract\obj\Release\QQMusicSkinExtract.pdb

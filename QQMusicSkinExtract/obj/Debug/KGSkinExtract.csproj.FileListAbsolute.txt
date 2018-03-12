@@ -1,0 +1,9 @@
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\bin\Debug\KGSkinExtract.exe.config
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\bin\Debug\KGSkinExtract.exe
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\bin\Debug\KGSkinExtract.pdb
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\obj\Debug\KugouSkinRead.frmKGSkinExtract.resources
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\obj\Debug\KGSkinExtract.Properties.Resources.resources
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\obj\Debug\KGSkinExtract.csproj.GenerateResource.Cache
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\obj\Debug\KGSkinExtract.exe
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\obj\Debug\KGSkinExtract.pdb
+G:\Workspace\C#\QQMusicSkinExtract\KGSkinExtract\obj\Debug\KGSkinExtract.csprojResolveAssemblyReference.cache
